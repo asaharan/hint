@@ -1,0 +1,25 @@
+{
+  "name": "Hint",
+  "version": "0.0.0",
+  "authors": [
+    "Amit Saharan <asaharan812@gmail.com>"
+  ],
+  "description": "Guess the correct word",
+  "main": "index.html",
+  "keywords": [
+    "Typeahead",
+    "hint",
+    "search"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
